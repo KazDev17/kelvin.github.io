@@ -6,17 +6,17 @@
   - [Hardening and Network Reconnaissance](https://docs.google.com/document/d/15N7ZIXHmDZzNJT1N-fv0y2mELmr5x3jC/edit?usp=sharing&ouid=108732623686397747271&rtpof=true&sd=true)
 - <b>Ethical Hacking Windows Exploitation</b>
   - [Ethical Hacking Windows Exploitation](https://docs.google.com/document/d/1LgQmyzBgKOmNf6VnH1vqXekMDPE64W7C/edit?usp=sharing&ouid=114306777360222376303&rtpof=true&sd=true)
-- <b>DVWA Penetration Testing Report</b>
+- <b>DVWA Penetration Testing</b>
   - [DVWA Penetration Testing Report](https://docs.google.com/document/d/1KXIem9CFFp98-quKnzLwV9RNfFBI-R-4/edit?usp=sharing&ouid=114306777360222376303&rtpof=true&sd=true)
 
 <h2>Certifications</h2>
 
-- [CompTIA Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [CompTIA Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [CompTIA Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [CompTIA Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [CompTIA Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [CompTIA Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CompTIA Security+](https://www.credly.com/badges/a28cb3bf-0199-4367-b942-79921ce8dcee/public_url)
+- [Cisco Ethical Hacker](https://www.credly.com/badges/cc346a67-b6ae-4440-9e10-890d76c0af19/public_url)
+- [API Penetration Testing](https://www.credly.com/badges/f39ca1aa-82ab-4365-a71a-875705e6f03a/public_url)
+- [eJPTv2](https://api.accredible.com/v1/auth/invite?code=3a8d01b83da3219cedfa&credential_id=83f88364-8565-4296-b01d-c5f733a92470&url=https%3A%2F%2Fcerts.ine.com%2F83f88364-8565-4296-b01d-c5f733a92470&ident=7b5445d3-2cb4-4622-8b0b-c096ec3ff427/)
+- [Red Team Operation Management](https://courses.redteamleaders.com/completion/77c304ad8a92eb8a)
+- [Certified Network Security Practitioner](https://drive.google.com/file/d/1YKEhbzB8MMxgfTYqFgfAQ5Fe3p8UrOMB/view?usp=sharing)
 
 <!--
 <h2>📺 Popular YouTube Videos</h2>
