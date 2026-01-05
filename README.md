@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/KazDev17/kelvin.github.io/PROJECTURL)
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/KazDev17/kelvin.github.io/PROJECTURL)
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/KazDev17/kelvin.github.io/PROJECTURL)
+- <b>Active Directory Hardening and Network Reconnaissance & Vulnerability Assessment</b>
+  - [Hardening and Network Reconnaissance](https://docs.google.com/document/d/15N7ZIXHmDZzNJT1N-fv0y2mELmr5x3jC/edit?usp=sharing&ouid=108732623686397747271&rtpof=true&sd=true)
+- <b>Ethical Hacking Windows Exploitation</b>
+  - [Ethical Hacking Windows Exploitation](https://docs.google.com/document/d/1LgQmyzBgKOmNf6VnH1vqXekMDPE64W7C/edit?usp=sharing&ouid=114306777360222376303&rtpof=true&sd=true)
+- <b>DVWA Penetration Testing Report</b>
+  - [DVWA Penetration Testing Report](https://docs.google.com/document/d/1KXIem9CFFp98-quKnzLwV9RNfFBI-R-4/edit?usp=sharing&ouid=114306777360222376303&rtpof=true&sd=true)
 
 <h2>Certifications</h2>
 
