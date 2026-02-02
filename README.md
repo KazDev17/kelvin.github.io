@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kelvin! <br/><a href="https://www.linkedin.com/in/kelvin-aziken-7b31761bb/">Penetration Tester | Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Kelvin! <br/><a href="https://www.linkedin.com/in/kelvin-aziken-7b31761bb/">Penetration Tester | Cybersecurity Professional | Machine Learning Engineer</a> </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -37,8 +37,8 @@
 
 <!-- [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 <!-- [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Kelvin | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" />][linkedin]
+[<img align="left" alt="Kelvin | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
