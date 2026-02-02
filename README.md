@@ -9,6 +9,11 @@
 - <b>DVWA Penetration Testing</b>
   - [DVWA Penetration Testing Report](https://docs.google.com/document/d/1KXIem9CFFp98-quKnzLwV9RNfFBI-R-4/edit?usp=sharing&ouid=114306777360222376303&rtpof=true&sd=true)
 
+<h2>👨‍💻 AI | Neural Networks Projects:</h2>
+
+- <b>Anime Success Predictor</b>
+  - [Hardening and Network Reconnaissance](https://docs.google.com/document/d/15N7ZIXHmDZzNJT1N-fv0y2mELmr5x3jC/edit?usp=sharing&ouid=108732623686397747271&rtpof=true&sd=true)
+
 <h2>Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/a28cb3bf-0199-4367-b942-79921ce8dcee/public_url)
