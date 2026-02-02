@@ -12,7 +12,7 @@
 <h2>👨‍💻 AI | Neural Networks Projects:</h2>
 
 - <b>Anime Success Predictor</b>
-  - [Hardening and Network Reconnaissance](https://docs.google.com/document/d/15N7ZIXHmDZzNJT1N-fv0y2mELmr5x3jC/edit?usp=sharing&ouid=108732623686397747271&rtpof=true&sd=true)
+  - [Anime Success Predictor](https://github.com/KazDev17/Anime-Success-Predictor.git)
 
 <h2>Certifications</h2>
 
