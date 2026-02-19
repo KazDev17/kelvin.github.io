@@ -8,6 +8,10 @@
   - [Ethical Hacking Windows Exploitation](https://docs.google.com/document/d/1LgQmyzBgKOmNf6VnH1vqXekMDPE64W7C/edit?usp=sharing&ouid=114306777360222376303&rtpof=true&sd=true)
 - <b>DVWA Penetration Testing</b>
   - [DVWA Penetration Testing Report](https://docs.google.com/document/d/1KXIem9CFFp98-quKnzLwV9RNfFBI-R-4/edit?usp=sharing&ouid=114306777360222376303&rtpof=true&sd=true)
+<b>Malware Analysis & Triage</b>
+  - [SilyPuTTY Walkthrough 1](https://sapphire-cousin-c29.notion.site/SillyPuTTY-Walkthrough-11557237425e80b98e92ff98b3eca458?source=copy_link)
+  - [SilyPuTTY Walkthrough 2](https://sapphire-cousin-c29.notion.site/SillyPuTTY-Walkthrough-2-9867d7b5ccd4460490fe4b3c8bf970ab?source=copy_link)
+
 
 <h2>👨‍💻 AI | Neural Networks Projects:</h2>
 
