@@ -18,7 +18,7 @@
 - <b>Anime Success Predictor</b>
   - [Anime Success Predictor](https://github.com/KazDev17/Anime-Success-Predictor.git)
 - <b>Trigram Neural Network</b>
-  - [Trigram Neural Network](https://github.com/KazDev17/Trigram-Neural-Network-Sequence-Predictor-.git)
+  - [Trigram Neural Network Sequence Predictor](https://github.com/KazDev17/Trigram-Neural-Network-Sequence-Predictor-.git)
 
 <h2>Certifications</h2>
 
